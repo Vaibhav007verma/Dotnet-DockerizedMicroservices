@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dev\\source\\repos\\Proj6\\DockerizedMicroservices\\UserRegister\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C0F488-F376-492D-A787-329407E5AEAE}|UserRegister\\UserRegister.csproj|c:\\users\\dev\\source\\repos\\proj6\\dockerizedmicroservices\\userregister\\userregister\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9C0F488-F376-492D-A787-329407E5AEAE}|UserRegister\\UserRegister.csproj|solutionrelative:userregister\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C0F488-F376-492D-A787-329407E5AEAE}|UserRegister\\UserRegister.csproj|c:\\users\\dev\\source\\repos\\proj6\\dockerizedmicroservices\\userregister\\userregister\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C0F488-F376-492D-A787-329407E5AEAE}|UserRegister\\UserRegister.csproj|solutionrelative:userregister\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C0F488-F376-492D-A787-329407E5AEAE}|UserRegister\\UserRegister.csproj|c:\\users\\dev\\source\\repos\\proj6\\dockerizedmicroservices\\userregister\\userregister\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C0F488-F376-492D-A787-329407E5AEAE}|UserRegister\\UserRegister.csproj|solutionrelative:userregister\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\Proj6\\DockerizedMicroservices\\UserRegister\\UserRegister\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserRegister\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\Proj6\\DockerizedMicroservices\\UserRegister\\UserRegister\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserRegister\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-03T10:44:10.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\Proj6\\DockerizedMicroservices\\UserRegister\\UserRegister\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserRegister\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\Proj6\\DockerizedMicroservices\\UserRegister\\UserRegister\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserRegister\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T10:35:39.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\Proj6\\DockerizedMicroservices\\UserRegister\\UserRegister\\Model\\User.cs",
+              "RelativeDocumentMoniker": "UserRegister\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\Proj6\\DockerizedMicroservices\\UserRegister\\UserRegister\\Model\\User.cs",
+              "RelativeToolTip": "UserRegister\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T10:26:12.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

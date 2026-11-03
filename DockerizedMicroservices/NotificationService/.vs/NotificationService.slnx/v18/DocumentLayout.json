@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dev\\source\\repos\\Proj6\\DockerizedMicroservices\\NotificationService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBE6D11-2833-4715-8AE0-F97268410EC8}|NotificationService\\NotificationService.csproj|c:\\users\\dev\\source\\repos\\proj6\\dockerizedmicroservices\\notificationservice\\notificationservice\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CBE6D11-2833-4715-8AE0-F97268410EC8}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBE6D11-2833-4715-8AE0-F97268410EC8}|NotificationService\\NotificationService.csproj|c:\\users\\dev\\source\\repos\\proj6\\dockerizedmicroservices\\notificationservice\\notificationservice\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CBE6D11-2833-4715-8AE0-F97268410EC8}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBE6D11-2833-4715-8AE0-F97268410EC8}|NotificationService\\NotificationService.csproj|c:\\users\\dev\\source\\repos\\proj6\\dockerizedmicroservices\\notificationservice\\notificationservice\\notificationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CBE6D11-2833-4715-8AE0-F97268410EC8}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\notificationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBE6D11-2833-4715-8AE0-F97268410EC8}|NotificationService\\NotificationService.csproj|c:\\users\\dev\\source\\repos\\proj6\\dockerizedmicroservices\\notificationservice\\notificationservice\\model\\emailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CBE6D11-2833-4715-8AE0-F97268410EC8}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\model\\emailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBE6D11-2833-4715-8AE0-F97268410EC8}|NotificationService\\NotificationService.csproj|c:\\users\\dev\\source\\repos\\proj6\\dockerizedmicroservices\\notificationservice\\notificationservice\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CBE6D11-2833-4715-8AE0-F97268410EC8}|NotificationService\\NotificationService.csproj|solutionrelative:notificationservice\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\Proj6\\DockerizedMicroservices\\NotificationService\\NotificationService\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\Proj6\\DockerizedMicroservices\\NotificationService\\NotificationService\\Services\\EmailService.cs",
+              "RelativeToolTip": "NotificationService\\Services\\EmailService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:04:28.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\Proj6\\DockerizedMicroservices\\NotificationService\\NotificationService\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\Proj6\\DockerizedMicroservices\\NotificationService\\NotificationService\\Services\\IEmailService.cs",
+              "RelativeToolTip": "NotificationService\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:04:18.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\Proj6\\DockerizedMicroservices\\NotificationService\\NotificationService\\Model\\EmailRequest.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Model\\EmailRequest.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\Proj6\\DockerizedMicroservices\\NotificationService\\NotificationService\\Model\\EmailRequest.cs",
+              "RelativeToolTip": "NotificationService\\Model\\EmailRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:04:02.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\Proj6\\DockerizedMicroservices\\NotificationService\\NotificationService\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "NotificationService\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\Proj6\\DockerizedMicroservices\\NotificationService\\NotificationService\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "NotificationService\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T12:03:46.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationService",
+              "DocumentMoniker": "C:\\Users\\Dev\\source\\repos\\Proj6\\DockerizedMicroservices\\NotificationService\\NotificationService\\NotificationService.csproj",
+              "RelativeDocumentMoniker": "NotificationService\\NotificationService.csproj",
+              "ToolTip": "C:\\Users\\Dev\\source\\repos\\Proj6\\DockerizedMicroservices\\NotificationService\\NotificationService\\NotificationService.csproj",
+              "RelativeToolTip": "NotificationService\\NotificationService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-03T11:58:04.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
